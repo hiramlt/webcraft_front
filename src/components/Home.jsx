@@ -17,7 +17,24 @@ function Home(){
                     <button>Agregar</button>
                </div>
                <div className="content">
-                hola
+               <table>
+                    <thead>
+                        <tr>
+                            <th>Nombre</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr >
+                            <td>Google</td>
+                        </tr>
+                        <tr >
+                            <td>Otro</td>
+                        </tr>
+                        <tr >
+                            <td>Nuevo</td>
+                        </tr>
+                    </tbody>
+                </table>
                </div>
             </main>
         </body>
